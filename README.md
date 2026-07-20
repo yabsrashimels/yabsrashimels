@@ -17,7 +17,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header" width="100%" alt="header banner"/>
 
-<h1>Hi, I'm [Yeabsra shimels] 👋</h1>
+<h1>Hi, I'm Yeabsra shimels 👋</h1>
 
 <h3>Software Engineer&nbsp;|&nbsp;Full Stack Developer&nbsp;|&nbsp;Problem Solver</h3>
 
@@ -168,14 +168,16 @@ Explore the rest of my work — side projects, experiments, and open-source cont
 
 <div align="center">
 
-**📅 Contribution Graph**
+**📊 GitHub Stats & Contribution Streak**
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yabsrashimels53&theme=tokyo-night&hide_border=true" width="95%" alt="activity graph"/>
+<img src="https://github-readme-stats.vercel.app/api?username=yabsrashimels53&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%" />
+<img src="https://streak-stats.demolab.com/?user=yabsrashimels53&theme=tokyonight" alt="GitHub Streak" width="48%" />
 
-**🐍 Coding Animation**
+<br/><br/>
 
-<!-- Add the GitHub Action from github.com/Platane/snk to auto-generate this -->
-<img src="https://raw.githubusercontent.com/yabsrashimels53/yabsrashimels53/output/github-contribution-grid-snake.svg" width="95%" alt="snake animation"/>
+**💻 Most Used Languages**
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yabsrashimels53&layout=compact&theme=tokyonight" alt="Top Languages" width="95%" />
 
 </div>
 
