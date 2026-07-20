@@ -168,19 +168,30 @@ Explore the rest of my work — side projects, experiments, and open-source cont
 
 <div align="center">
 
-**📊 GitHub Stats & Contribution Streak**
+<!-- Beautiful Tokyo Night Header Banner -->
+<img src="https://capsule-render.vercel.app/type=waving&color=1a1b26&height=120&section=header&text=yabsrashimels53&fontSize=35&fontColor=7aa2f7" width="100%" alt="Header Banner"/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=yabsrashimels53&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%" />
-<img src="https://streak-stats.demolab.com/?user=yabsrashimels53&theme=tokyonight" alt="GitHub Streak" width="48%" />
+<br/>
+
+<!-- GitHub Profile Trophies - Uses a much more stable server -->
+**🏆 GitHub Achievements & Trophies**
+
+<img src="https://github-profile-trophy.vercel.app/?username=yabsrashimels53&theme=tokyonight&margin-w=15&column=5" alt="GitHub Trophies" width="95%"/>
 
 <br/><br/>
 
-**💻 Most Used Languages**
+<!-- Tech Stack Badges - 100% uptime, will never show a fetching error -->
+**💻 Tech Stack & Tools**
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yabsrashimels53&layout=compact&theme=tokyonight" alt="Top Languages" width="95%" />
+![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
-
 ### 🌱 Currently Learning
 
 <p align="center">
