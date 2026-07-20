@@ -170,12 +170,12 @@ Explore the rest of my work — side projects, experiments, and open-source cont
 
 **📅 Contribution Graph**
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=tokyo-night&hide_border=true" width="95%" alt="activity graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yabsrashimels53&theme=tokyo-night&hide_border=true" width="95%" alt="activity graph"/>
 
 **🐍 Coding Animation**
 
 <!-- Add the GitHub Action from github.com/Platane/snk to auto-generate this -->
-<img src="https://raw.githubusercontent.com/your-username/your-username/output/github-contribution-grid-snake.svg" width="95%" alt="snake animation"/>
+<img src="https://raw.githubusercontent.com/yabsrashimels53/yabsrashimels53/output/github-contribution-grid-snake.svg" width="95%" alt="snake animation"/>
 
 </div>
 
