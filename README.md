@@ -2,7 +2,7 @@
   ═══════════════════════════════════════════════════════════════
   GitHub Profile README — Quick Setup Guide
   Find & replace these placeholders throughout the file:
-    [Yeabsra shimels]              → your full name
+    Yeabsra shimels              → your full name
     https://github.com/yabsrashimels            → your GitHub username
     your-linkedin-username   → your LinkedIn handle
     yabsrashimels531@gmail.com   → your email address
@@ -48,7 +48,7 @@
 
 ## 👨‍💻 About Me
 
-I'm **[Your Name]**, a passionate **Software Engineer** and **Full Stack Developer** who enjoys turning ideas into fast, reliable, and genuinely easy-to-use digital products. I work comfortably across the whole stack — from crafting responsive, pixel-conscious interfaces to designing the APIs and databases that power them — and I care as much about the code behind the scenes as I do about what the user sees.
+I'm **Yeabsra shimels**, a passionate **Software Engineer** and **Full Stack Developer** who enjoys turning ideas into fast, reliable, and genuinely easy-to-use digital products. I work comfortably across the whole stack — from crafting responsive, pixel-conscious interfaces to designing the APIs and databases that power them — and I care as much about the code behind the scenes as I do about what the user sees.
 
 - 🔭 I'm currently working on **[English Learning web]**
 - 🌱 I'm currently learning **[PYTHON]**
@@ -159,13 +159,6 @@ Explore the rest of my work — side projects, experiments, and open-source cont
 ## 📊 GitHub Statistics
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" alt="GitHub Stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight&hide_border=true" width="49%" alt="Top Languages"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight&hide_border=true" width="70%" alt="GitHub Streak"/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=your-username&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="90%" alt="GitHub Trophies"/>
 
 </div>
 
