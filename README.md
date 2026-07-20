@@ -2,11 +2,11 @@
   ═══════════════════════════════════════════════════════════════
   GitHub Profile README — Quick Setup Guide
   Find & replace these placeholders throughout the file:
-    [Your Name]              → your full name
-    your-username            → your GitHub username
+    [Yeabsra shimels]              → your full name
+    https://github.com/yabsrashimels            → your GitHub username
     your-linkedin-username   → your LinkedIn handle
-    your.email@example.com   → your email address
-    your-portfolio.com       → your portfolio URL
+    yabsrashimels531@gmail.com   → your email address
+    clever-dango-926b52.netlify.app       → your portfolio URL
     your-wakatime-id         → your WakaTime user id (optional — wakatime.com)
   For the snake contribution animation, add the workflow from
   github.com/Platane/snk to your profile repo.
@@ -17,7 +17,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header" width="100%" alt="header banner"/>
 
-<h1>Hi, I'm [Your Name] 👋</h1>
+<h1>Hi, I'm [Yeabsra shimels] 👋</h1>
 
 <h3>Software Engineer&nbsp;|&nbsp;Full Stack Developer&nbsp;|&nbsp;Problem Solver</h3>
 
@@ -38,8 +38,8 @@
 
 <br/><br/>
 
-[![GitHub followers](https://img.shields.io/github/followers/your-username?label=Followers&style=for-the-badge&color=2E9EF7&logo=github&logoColor=white)](https://github.com/your-username?tab=followers)
-[![Profile Views](https://komarev.com/ghpvc/?username=your-username&label=Profile%20Views&color=2E9EF7&style=for-the-badge)](https://github.com/your-username)
+[![GitHub followers](https://img.shields.io/github/followers/your-username?label=Followers&style=for-the-badge&color=2E9EF7&logo=github&logoColor=white)](https://github.com/yabsrashimels?tab=followers)
+[![Profile Views](https://komarev.com/ghpvc/?username=your-username&label=Profile%20Views&color=2E9EF7&style=for-the-badge)](https://github.com/yabsrashimels)
 [![Coding Activity](https://wakatime.com/badge/user/your-wakatime-id.svg?style=for-the-badge)](https://wakatime.com/@your-wakatime-id)
 
 </div>
@@ -50,12 +50,12 @@
 
 I'm **[Your Name]**, a passionate **Software Engineer** and **Full Stack Developer** who enjoys turning ideas into fast, reliable, and genuinely easy-to-use digital products. I work comfortably across the whole stack — from crafting responsive, pixel-conscious interfaces to designing the APIs and databases that power them — and I care as much about the code behind the scenes as I do about what the user sees.
 
-- 🔭 I'm currently working on **[a project or company name]**
-- 🌱 I'm currently learning **[a new technology]**
+- 🔭 I'm currently working on **[English Learning web]**
+- 🌱 I'm currently learning **[PYTHON]**
 - 👯 I'm looking to collaborate on **[open-source / side projects]**
 - 🤔 I'm looking for help with **[a topic you'd like guidance on]**
 - 💬 Ask me about **JavaScript, React, Node.js, PostgreSQL & System Design**
-- 📫 Reach me at **your.email@example.com**
+- 📫 Reach me at **yabsrashimels531@gmail.com**
 - ⚡ Fun fact: **[something fun about you]**
 
 I care about writing **clean, maintainable code**, approaching problems methodically, and shipping software people actually enjoy using. Whether that means optimizing a slow query, refactoring a tangled component, or picking up a new framework, I bring curiosity and attention to detail to the work — and I'm always looking for the next thing to learn.
