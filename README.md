@@ -176,7 +176,7 @@ Explore the rest of my work — side projects, experiments, and open-source cont
 <!-- GitHub Profile Trophies - Uses a much more stable server -->
 **🏆 GitHub Achievements & Trophies**
 
-<img src="https://github-profile-trophy.vercel.app/?username=yabsrashimels53&theme=tokyonight&margin-w=15&column=5" alt="GitHub Trophies" width="95%"/>
+<img src="https://github.com/yabsrashimels/?username=yabsrashimels53&theme=tokyonight&margin-w=15&column=5" alt="GitHub Trophies" width="95%"/>
 
 <br/><br/>
 
@@ -209,9 +209,9 @@ Explore the rest of my work — side projects, experiments, and open-source cont
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin-username)
-[![Portfolio](https://img.shields.io/badge/Portfolio-2E9EF7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://your-portfolio.com)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username)
+[![Portfolio](https://img.shields.io/badge/Portfolio-2E9EF7?style=for-the-badge&logo=googlechrome&logoColor=white)](clever-dango-926b52.netlify.app)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](yabsrashimels531@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yabsrashimels)
 
 </div>
 
